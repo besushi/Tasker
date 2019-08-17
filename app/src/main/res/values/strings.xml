@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasker</string>
+    <string name="Ideas">Ideas</string>
+    <string name="Tasks">Tasks</string>
+    <string name="Week">Week</string>
+    <string name="Month">Month</string>
+</resources>

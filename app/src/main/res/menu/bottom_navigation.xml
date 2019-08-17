@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/IdeasFrag" android:title="@string/Ideas" android:icon="@drawable/idea_lamp" />
+    <item android:id="@+id/TasksFrag" android:title="@string/Tasks" android:icon="@drawable/tasks"/>
+    <item android:id="@+id/WeekFrag" android:title="@string/Week" android:icon="@drawable/week"/>
+    <item android:id="@+id/MonthFrag" android:title="@string/Month" android:icon="@drawable/calndar"/>
+
+
+
+</menu>
